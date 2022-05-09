@@ -1,6 +1,6 @@
 # Two-Stream-BRDF-Network_Reproduction
 オープンソースではなく「Highlight-aware Two-stream Network for Single-image SVBRDF Acquisition」という論文のリプロダクション
-
+only the model and loss function are open source now.（After oral examination for graduation，I will open source the entire code ）
 リプロダクションの過程は三つに分かれる。
 
 ## １．DataSetの処理
@@ -20,3 +20,9 @@
 このアルゴリズムを使って、これまでのアルゴリズムの欠点を補う。
 図１は色変換のOverviewです。
 ![image](https://user-images.githubusercontent.com/71435435/167250705-28ccd13f-6ecd-427a-aeff-2f55de6be813.png)
+
+
+
+Evironment:
+CUDA 10.4と11.4、対応するpytorchのバージョンはpytorchのホームページで確認できます。
+Python3.6
