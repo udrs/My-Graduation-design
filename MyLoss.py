@@ -132,21 +132,7 @@ class RenderingLoss(nn.Module):
 
         return loss
 
-#class MixedLoss(nn.Module):
-#    def __init__(self, renderer, l1_weight = 0.1):
-#        super(MixedLoss, self).__init__()
 
-#        self.l1_weight      = l1_weight
-#        self.l1_loss        = SVBRDFL1Loss()
-#        self.rendering_loss = RenderingLoss(renderer)
-
-#    def forward(self, input, target):
-#        return self.l1_loss(input, target) + self.rendering_loss(input, target)
-        #return self.l1_loss(input, target)
-        #return self.rendering_loss(input, target)
-
-
-# 自定义损失函数
 class MyLoss(nn.Module):
     def __init__(self,renderer):
         super(MyLoss, self).__init__()
