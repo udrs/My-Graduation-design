@@ -27,6 +27,7 @@ Python3.6
 ## 3.comparision
 origin color based rendering
 ![image](https://github.com/wenyihan4396/Two-Stream-BRDF-Network_Reproduction/blob/main/origin_color.gif)
+
 recolored based rendering
 ![image](https://github.com/wenyihan4396/Two-Stream-BRDF-Network_Reproduction/blob/main/color_changed.gif)
 
