@@ -1,6 +1,5 @@
-# Two-Stream-BRDF-Network_Reproduction for recoloring
-## 1.オープンソースではなく「Highlight-aware Two-stream Network for Single-image SVBRDF Acquisition」という論文のリプロダクション
-only the model and loss function are open source now.（After oral examination for graduation，I will open source the entire code ）
+# BRDF-Network for recoloring
+## 1.材質を予測するAIモデル
 リプロダクションの過程は三つに分かれる。
 
 ### １．DataSetの処理
