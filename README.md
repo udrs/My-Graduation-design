@@ -2,8 +2,7 @@ URL of my Graduation Thesis : https://github.com/wenyihan4396/My-Graduation-desi
 # BRDF-Network for recoloring
 # 
 ## 1.材質を予測するAIモデル
-## We first implement the paper : 
-## Highlight-Aware Two-Stream Network for Single-Image SVBRDF Acquisition
+## We first implement the paper :  Highlight-Aware Two-Stream Network for Single-Image SVBRDF Acquisition
 リプロダクションの過程は三つに分かれる。
 
 ### １．DataSetの処理
