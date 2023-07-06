@@ -1,3 +1,4 @@
+URL of my Graduation Thesis : https://github.com/wenyihan4396/My-Graduation-design/blob/main/%E5%8D%92%E6%A5%AD%E8%AB%96%E6%96%87.pdf
 # BRDF-Network for recoloring
 ## 1.材質を予測するAIモデル
 リプロダクションの過程は三つに分かれる。
